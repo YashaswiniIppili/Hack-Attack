@@ -14,3 +14,10 @@ Implementing on two systems (server & client) : </br>
 2. Run server.py, this sends the input.txt to the client side but make sure you put in the right port and ip address.
 3. Run client.py on the server side to receive "input.txt", check your downloads section.
 4. Run decrypt.py on the client side to get the plain text from the encrypted text.
+
+## CPP Implementation 
+
+1. Git Clone the python_implementation folder (consists of 5 files). </br>
+2. Put all files into same directory for easiest running. </br>
+3. Run encrypt.py and run server.cpp afterwards.</br>
+4. Receive in a separate terminal or system by running client.py and after file which it will automatically come into directory and run decrypt.cpp </br>
