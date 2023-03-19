@@ -4,7 +4,7 @@ Chat Encryption Decryption Tool </br>
 ## Python  Implementation
 
 Implementing on the same system : </br>
-1. Git Clone the python_implementation folder (consists of 5 files). </br>
+1. Git Clone the python_implementation folder (consists of 5 files) and install "pip install pycryptodome". </br>
 2. Run encrypt.py, enter the user input. </br>
 3. All 4 values (nonce, encryption key, tag and ciphertext) are copied onto a input.txt file. </br>
 4. Run decrypt.py, you'll get the final decrypted plain text of the encrypted texts. </br>
